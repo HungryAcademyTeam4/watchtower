@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  user_id: 1
+  chat_room_id: 1
+  content: MyString
+  user_display_name: MyString
+
+two:
+  user_id: 1
+  chat_room_id: 1
+  content: MyString
+  user_display_name: MyString
