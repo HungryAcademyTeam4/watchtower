@@ -4,4 +4,5 @@ Searchbot::Application.routes.draw do
       resources :messages
     end
   end
+
 end

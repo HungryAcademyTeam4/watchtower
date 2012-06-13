@@ -11,6 +11,7 @@ gem 'faye'
 gem 'thin'
 gem 'json'
 gem 'rabl'
+gem 'tire'
 
 # Gems used only for assets and not required
 # in production environments by default.
